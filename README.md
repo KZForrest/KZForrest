@@ -1,6 +1,6 @@
 Hi, I’m @KZForrest
 
-Solidity Dev. to be
+Blockchain Developer
 
 blockchain | web3 | crypto | React | Solidity | Javascript
 
