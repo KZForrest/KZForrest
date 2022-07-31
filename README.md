@@ -2,7 +2,7 @@ Hi, I’m @KZForrest
 
 Solidity Dev. to be
 
-blockchain|web3|crypto|React|Solidity|Javascript
+blockchain | web3 | crypto | React | Solidity | Javascript
 
 
 Blog: https://forresttill.hashnode.dev/
