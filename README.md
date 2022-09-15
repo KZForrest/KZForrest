@@ -1,5 +1,3 @@
-Hi, I’m @KZForrest
-
 Blockchain Developer
 
 blockchain | web3 | crypto | React | Solidity | Javascript
